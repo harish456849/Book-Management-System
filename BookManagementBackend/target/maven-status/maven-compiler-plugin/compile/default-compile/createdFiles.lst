@@ -1,0 +1,7 @@
+com\example\Second\AOP\LoggingAspect.class
+com\example\Second\BookService.class
+com\example\Second\BookViewController.class
+com\example\Second\BookRepository.class
+com\example\Second\Book.class
+com\example\Second\BookController.class
+com\example\Second\SecondSpringStarterApplication.class
